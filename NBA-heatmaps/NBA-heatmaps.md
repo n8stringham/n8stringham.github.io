@@ -5,8 +5,8 @@ This project was completed for Math 161 - Spatial Statistics in Spring 2019.
 Data for the project comes from the 2016-17 NBA season contained in the [SpatialBall](https://cran.r-project.org/web/packages/SpatialBall/index.html) package.
 
 See also
-* a [walkthrough](NBA-heatmaps/NBA-heatmaps.html) of creating a shot chart for Damian Lillard
-* the [poster](NBA-heatmaps/NBA-heatmaps-poster.pdf) we made for our presentation
+* a [walkthrough](NBA-heatmaps.html) of creating a shot chart for Damian Lillard
+* the [poster](NBA-heatmaps-poster.pdf) we made for our presentation
 
 ### RESEARCH QUESTIONS
 How does an NBA player’s scoring efficiency change with shot location? Can we utilize Spatial Kriging to predict where they are most efficient?
