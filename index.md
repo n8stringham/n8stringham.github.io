@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/test_page.md)
+[Visualizing NBA Player Scoring Efficiency with Spatial Kriging](html/NBA-heatmaps.html)
 ![Heat Maps](images/player-heatmaps.png)
 
 ---
