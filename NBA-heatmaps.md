@@ -9,7 +9,8 @@ See also
 * the [poster](NBA-heatmaps/NBA-heatmaps-poster.pdf) we made for our presentation
 
 ### RESEARCH QUESTIONS
-How does an NBA player’s scoring efficiency change with shot location? Can we utilize Spatial Kriging to predict where they are most efficient?
+* How does an NBA player’s scoring efficiency change with shot location? 
+* Can we utilize Spatial Kriging to predict where they are most efficient?
 
 ### ABOUT KRIGING
 Spatial Kriging is a statistical technique which uses a set of observations in space and its corresponding values of a covariate of interest--usually called z--to predict the values of that same covariate at a new set of locations within the sample space. Kriging is especially effective because its interpolation method accounts for the way in which z-values vary with distance.
