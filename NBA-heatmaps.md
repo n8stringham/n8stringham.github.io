@@ -1,8 +1,12 @@
-# NBA-heatmaps
-**Team Members:** Nate Stringham and Adam Rees
+# Creating NBA Shot Charts with Spatial Kriging
+Nate Stringham and Adam Rees
 
 This project was completed for Math 161 - Spatial Statistics in Spring 2019.
-Data for the project comes from the 2016-17 NBA season contained in the SpatialBall package.
+Data for the project comes from the 2016-17 NBA season contained in the [SpatialBall](https://cran.r-project.org/web/packages/SpatialBall/index.html) package.
+
+See also
+* a [walkthrough](html/NBA-heatmaps.html) of creating a shot chart for Damian Lillard
+* the [poster]() we made for our presentation
 
 ### RESEARCH QUESTIONS
 How does an NBA player’s scoring efficiency change with shot location? Can we utilize Spatial Kriging to predict where they are most efficient?
