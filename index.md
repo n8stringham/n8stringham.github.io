@@ -7,7 +7,7 @@ April 2019 <br>
 [![Heat Maps](images/player-heatmaps.png)](NBA-heatmaps.md)
 
 
-### [XC Simulations](TeamRunning-FinalWriteUp.html)
+### [XC Simulations](TeamRunning-FinalWriteUp.md)
 December 2019 <br>
 ![xc](images/xc-thumbnail.jpg)
 
