@@ -6,7 +6,7 @@ All race data was obtained from [tffrs](https://tfrrs.org/)
 
 See also
 * a [simulation applet](https://n8stringham.shinyapps.io/CrossCountry_Simulator)
-* the [poster](xc-simulating/Math154-FinalProject-Slides.pdf) we made for our presentation
+* the [slides](xc-simulating/Math154-FinalProject-Slides.pdf) we made for our presentation
 * an [in depth discussion](xc-simulating/TeamRunning-FinalWriteUp.html) of methods and results
 
 ### Goals
