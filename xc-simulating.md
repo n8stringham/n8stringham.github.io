@@ -25,13 +25,13 @@ Each year every team in NCAA DIII vies for one of 32 spots in the National Champ
 ### Some Results
 We performed this process of simulating for both the 2018 and 2019 seasons. The plots below show our predicted probability for a team to finish on the podium (top 4) at the national meet.
 
-![2018-pred](pred-2018.png)
-![2019-pred](pred-2019.png)
+![2018-pred](images/pred-2018.png)
+![2019-pred](images/pred-2019.png)
 
 By comparing these predictions to the actual results of the meet, we produced the following plots illustrating over-performers and under-performers from the meet.
 
-![2018-peak](peakers-2018.png)
-![2019-peak](peakers-2019.png)<br>
+![2018-peak](images/peakers-2018.png)
+![2019-peak](images/peakers-2019.png)<br>
 
 For a more in depth discussion of methods and results, see [here](xc-simulating/TeamRunning-FinalWriteUp.html)
 
