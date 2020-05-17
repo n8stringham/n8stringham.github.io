@@ -2,12 +2,12 @@
 
 ---
 
-### [Visualizing NBA Player Scoring Efficiency with Spatial Kriging](NBA-heatmaps.md) <br>
+### [Visualizing NBA Player Scoring Efficiency with Spatial Kriging](NBA-heatmaps.md)
 April 2019 <br>
-![Heat Maps](images/player-heatmaps.png)
+[![Heat Maps](images/player-heatmaps.png)](NBA-heatmaps.md)
 
 
-### [XC Simulations](TeamRunning-FinalWriteUp.html)<br>
+### [XC Simulations](TeamRunning-FinalWriteUp.html)
 December 2019 <br>
 ![xc](images/xc-thumbnail.jpg)
 
