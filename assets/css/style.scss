@@ -2,15 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
-p{
+p {
     color: green;
-  }
-  h1{
+}
+h1 {
     color: green;
-  }
-  h2{
+}
+h2 {
     color: green;
-  }
-  h3{
+}
+h3 {
     color: green;
-  }
+}
+a {
+    color: green;
+}
+body {
+    background-color: lightblue;
+}
