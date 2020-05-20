@@ -3,14 +3,11 @@
 
 @import "{{ site.theme }}";
 
-.img-circle {
-    border-radius: 50%;
-}
 
 img {
     border-radius: 8px;
 }
 
 #grad1 {
-    background-image: linear-gradient(to top , silver, white);
+    background-image: linear-gradient(to top , red, white);
 }
