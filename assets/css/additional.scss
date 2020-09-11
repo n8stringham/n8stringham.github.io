@@ -3,29 +3,8 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-  }
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
-    font-weight: bold;
-  }
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
-    font-style: italic, oblique;
-  }
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-  }
-
 body {
-    font-family: "Computer Modern", sans-serif;
+    font-family: 'Roboto Slab', serif;
   }
 
 
@@ -33,10 +12,10 @@ img {
     border-radius: 8px;
 }
 
-// body {
-//     background: linear-gradient(0deg, rgba(192,192,192,1) 0%, rgba(192,192,192,0) 100%);
-// }
+a {
+    color:#347B98
+    text-decoration:none;
+}
 
-// footer {
-//     background-color: rgba(192,192,192,1) 0%;
-// }
+.wrapper {
+  }
