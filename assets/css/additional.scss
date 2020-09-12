@@ -290,6 +290,7 @@ footer {
   background-color: inherit;
   float: left;
   border: none;
+  border-radius:8px;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
@@ -311,5 +312,6 @@ footer {
   display: none;
   padding: 6px 12px;
   border: 1px solid #ccc;
+  border-radius:8px;
   border-top: none;
 }

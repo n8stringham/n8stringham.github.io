@@ -1,6 +1,3 @@
-## Projects
-
----
 
 ## Learning Word Embeddings for a Latin Corpus
 
