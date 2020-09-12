@@ -1,5 +1,5 @@
 
-## Learning Word Embeddings for a Latin Corpus
+## [Learning Word Embeddings for a Latin Corpus](LatinEmbeddings.md)
 
 ---
 
