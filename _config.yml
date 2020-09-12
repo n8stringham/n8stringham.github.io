@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <i class="material-icons run">directions_run</i> Runner<br><br>
   <a href="https://n8stringham.github.io/about.html"><h2>About</h2></a>
   <br><br>
-  <a class="view" href="{{ site.github.owner_url }}">GitHub / </a>
+  <a class="view" href="https://github.com/n8stringham">GitHub / </a>
   <a class="view" href="https://www.linkedin.com/in/nathan-stringham/">LinkedIn</a> 
  
 theme: jekyll-theme-minimal
