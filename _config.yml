@@ -2,8 +2,8 @@ title: Nate Stringham # your name (or website title) here
 logo: "/images/profile.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://pomona.edu"><i class="material-icons">school</i></a> Pomona College '20 - B.A. Math<br>
-  <i class="material-icons">location_on</i> SLC, UT <br>
-  <i class="loc" class="material-icons">directions_run</i> Runner<br>
+  <i class="material-icons loc">location_on</i> SLC, UT <br>
+  <i class="material-icons">directions_run</i> Runner<br>
   <br><br>
   <a href="https://n8stringham.github.io/about.html">About</a>
   <br><br>
