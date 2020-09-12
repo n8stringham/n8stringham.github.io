@@ -3,8 +3,7 @@ logo: "/images/profile.jpg?raw=True" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i class="material-icons">school</i> Pomona College '20 - B.A. Math<br>
   <i class="material-icons">location_on</i> SLC, UT <br>
-  <i class="material-icons">directions_run</i> Runner
-  <br><br>
+  <i class="material-icons">directions_run</i> Runner<br>
   <br><br>
   <a href="https://n8stringham.github.io/about.html">Another Page</a>
   <br><br>

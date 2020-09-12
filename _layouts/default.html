@@ -43,11 +43,26 @@
         </ul>
         {% endif %}
       </header>
+      
       <section>
+        <!-- Tab links -->
+        <div class="tab">
+          <button class="tablinks" onclick="openCity(event, 'Projects')">Projects</button>
+          <button class="tablinks" onclick="openCity(event, 'Publications')">Publications</button>
+        </div>
 
-      {{ content }}
+        <!-- Tab content -->
+        <div id="Projects" class="tabcontent">
+          <h3>Projects</h3>
+          {{ content }}        
+        </div>
 
+        <div id="Publications" class="tabcontent">
+          <h3>Publications</h3>
+          <p>Word Embeddings for Low-Resource Languages - (Under Review)</p>
+        </div>      
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -66,5 +81,24 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+    <script>
+      function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
+      
+      // Get the element with id="defaultOpen" and click on it
+      document.getElementById("defaultOpen").click();
+    </script>
   </body>
 </html>
