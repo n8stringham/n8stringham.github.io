@@ -8,7 +8,6 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/additional.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/additional.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
     
@@ -31,9 +30,9 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
-        {% endif %}
+        <!-- {% if site.github.is_user_page %} -->
+        <!-- <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p> -->
+        <!-- {% endif %} -->
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -48,18 +47,18 @@
         <!-- Tab links -->
         <div class="tab">
           <button class="tablinks" onclick="openCity(event, 'Projects')"id="defaultOpen"><a class="home" href="https://n8stringham.github.io">Projects</a></button>
-          <button class="tablinks" onclick="openCity(event, 'Publications')">Publications</button>
+          <button class="tablinks" onclick="openCity(event, 'Publications')"><a class="home" href="https://n8stringham.github.io">Projects</a></button>
         </div>
 
         <!-- Tab content -->
         <div id="Projects" class="tabcontent">
-          <h2><a href="https://n8stringham.github.io">Projects</a></h2>
+          <!-- <h2><a href="https://n8stringham.github.io">Projects</a></h2> -->
           {{ content }}        
         </div>
 
         <div id="Publications" class="tabcontent">
-          <h2>Publications</h2>
-          <p>Word Embeddings for Low-Resource Languages - (Under Review)</p>
+          <!-- <h2>Publications</h2> -->
+          <p>Evaluating Word Embeddings on Low-Resource Languages - (Under Review)</p>
         </div>      
       </section>
 

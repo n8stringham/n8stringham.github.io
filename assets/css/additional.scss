@@ -318,10 +318,12 @@ footer {
   border-top: none;
 }
 
-a.loc-icon {
-  color: firebrick;
-}
-
 a.home {
   color: #222;
+  font-size: large;
+  font-family: 'Roboto Slab', serif;
+}
+
+.loc {
+  color: firebrick;
 }

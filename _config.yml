@@ -3,11 +3,12 @@ logo: "/images/profile.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://pomona.edu"><i class="material-icons">school</i></a> Pomona College '20 - B.A. Math<br>
   <i class="material-icons">location_on</i> SLC, UT <br>
-  <i class="material-icons">directions_run</i> Runner<br>
+  <i class="loc" class="material-icons">directions_run</i> Runner<br>
   <br><br>
-  <a class="loc-icon" href="https://n8stringham.github.io/about.html">Another Page</a>
+  <a href="https://n8stringham.github.io/about.html">About</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/nathan-stringham/">LinkedIn</a> 
-  
+  <a class="view" href="{{ site.github.owner_url }}">GitHub / </a>
+  <a class="view" href="https://www.linkedin.com/in/nathan-stringham/">LinkedIn / </a> 
+ 
 theme: jekyll-theme-minimal
 google_analytics: #UA-000000-0 # your Google Analytics tracking ID here
