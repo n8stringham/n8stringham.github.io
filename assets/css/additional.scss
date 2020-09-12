@@ -13,9 +13,12 @@ img {
 }
 
 a {
-    color:#347B98
-    text-decoration:none;
+    color:#347B98;
 }
 
-.wrapper {
+header {
+    width:270px;
+    float:top;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
   }
