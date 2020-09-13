@@ -8,7 +8,7 @@
 
 ## [Analyzing News Articles about the Coronavirus](Coronavirus-News.md)
 ### April 2020
-[![explained-outputs](images/coronavirus-thumbnail.pdf)](Coronavirus-News.html)
+[![explained-outputs](images/coronavirus-thumbnail.jpg)](Coronavirus-News.html)
 ---
 
 ## [Simulating a National XC Meet](xc-simulating.md)
