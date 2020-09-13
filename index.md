@@ -1,5 +1,11 @@
 
 ## [Learning Word Embeddings for a Latin Corpus](LatinEmbeddings.md)
+### April 2020
+
+---
+
+## [Analyzing News Articles about the Coronavirus](Coronavirus-News.md)
+### April 2020
 
 ---
 
