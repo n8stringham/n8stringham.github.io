@@ -1,14 +1,14 @@
 
 ## [Learning Word Embeddings for a Latin Corpus](LatinEmbeddings.md)
 ### April 2020
-[![explained-outputs](images/latinw2v.gif)]
+[![explained-outputs](images/latinw2v.gif)](LatinEmbeddings.html)
 
 
 ---
 
 ## [Analyzing News Articles about the Coronavirus](Coronavirus-News.md)
 ### April 2020
-[![explained-outputs](images/coronavirus-thumbnail.pdf)]
+[![explained-outputs](images/coronavirus-thumbnail.pdf)](Coronavirus-News.html)
 ---
 
 ## [Simulating a National XC Meet](xc-simulating.md)
