@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.cs.utah.edu/"><i class="material-icons">school</i></a> University of Utah '21 - present<br>
   <a href="https://pomona.edu"><i class="material-icons">school</i></a> Pomona College '20 - B.A. Math<br>
   <i class="material-icons loc">location_on</i> SLC, UT <br>
-  <i class="material-icons run">email</i> n8stringham@gmail.com<br><br>
+  #<i class="material-icons run">email</i> n8stringham@gmail.com<br><br>
   <a href="https://n8stringham.github.io/about.html"><h2>About</h2></a>
   <br><br>
   <a class="view" href="https://github.com/n8stringham">GitHub / </a>
