@@ -49,7 +49,7 @@ Below are the top 10 predictions from our model given various article titles.
 ### Different types of Bias
 Considering the title of article and then looking at our models predictions gives us a way to qualitatively asses how our model is doing, but does not tell us anything about how our model came to its conclusions. In order to gain a better understanding of how our model makes its predictions we implement the sliding window algorithm. This method works by replacing one word from a given article's title with a blank and then computing predictions for this new title (without one of the words). We can then compare the euclidean distance between the two output tensors to get a score which tells us how important that word was in making the models prediction. We can repeat this process for each word in a given title to see which words our model relied on most to make its prediction.
 
-These visualizations generated with the sliding window algorithm help us to see the different types of bias in our model.
+These visualizations generated with the sliding window algorithm help us to see the different types of bias in our model. Darker green highlighting indicates greater euclidean distance between the output tensors with and without that word. Thus, darker highlighting indicates greater importance in the model's decision making process.
 
 #### Geographic
 ![line7word-pred](images/line0007.word.png)
