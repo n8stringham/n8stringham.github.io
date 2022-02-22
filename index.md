@@ -24,8 +24,7 @@
 
 ---
 
-## [Visualizing NBA Player Scoring Efficiency with Spatial Kriging](NBA-heatmaps.md)
+## [My Twitter](https://twitter.com/n8stringham)
 <!-- #### April 2019 -->
-[![Heat Maps](images/player-heatmaps.png)](NBA-heatmaps.html)
 
 ---
