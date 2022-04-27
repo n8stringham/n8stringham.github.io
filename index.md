@@ -1,4 +1,10 @@
 
+## [Entity Recognition for Literature](LER.md)
+<!-- #### Spring 2022 -->
+
+
+---
+
 ## [Learning Word Embeddings for a Latin Corpus](LatinEmbeddings.md)
 <!-- #### April 2020 -->
 [![explained-outputs](images/latinw2v.gif)](LatinEmbeddings.html)
